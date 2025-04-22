@@ -56,9 +56,8 @@ If you prefer to set up manually:
 
 When you run the agent:
 
-1. It will first demonstrate capabilities with two example questions
-2. Then it will enter interactive mode where you can type your own questions
-3. Type 'quit' or 'exit' to stop the program
+1. Agent will enter interactive mode where you can type your own questions
+2. Type 'quit' or 'exit' to stop the program
 
 ## Project Structure
 
